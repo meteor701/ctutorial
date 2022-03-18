@@ -46,7 +46,7 @@ while(proceed == 1){
   //      break;
    // case'y':
     
- // }
+ // }/
   if(usrinp == 'n'){
     proceed = 0;
     break;
